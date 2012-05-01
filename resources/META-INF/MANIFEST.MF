@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: commons-io-2.2.jar ant.jar commons-lang-2.6.jar scala-compiler.jar scala-library.jar scala-library.jar scala-swing.jar scala-dbc.jar
+Main-Class: net.may.filerenamer.ScalaFileRenamer
+
